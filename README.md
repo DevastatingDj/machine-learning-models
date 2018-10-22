@@ -9,6 +9,7 @@ Your code should follow the PEP-8 guidelines https://www.datacamp.com/community/
 ## Authors
 
 * **Dhananjai Sharma** - *Initial work* - [DevastatingDj](https://github.com/DevastatingDj)
+* **Archit Khatri** - *Initial work* - [architkhatri98](https://github.com/architkhatri98)
 
 See also the list of [contributors](https://github.com/DevastatingDj/machine-learning-models) who participated in this project.
 
